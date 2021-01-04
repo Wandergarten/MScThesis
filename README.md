@@ -1,5 +1,5 @@
-# MScThesis
-Masters Thesis of CKujath
+# thesis
+public repository for my thesis
 
 
 
